@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Giới thiệu bản thân</string>
+    <string name="name_text">Hoàng Gia Bảo</string>
+    <string name="major_text">Sinh viên ngành Công nghệ Thông tin</string>
+    <string name="bio_text">Đam mê lập trình, yêu thích UI/UX. Mong muốn trở thành một lập trình viên Android chuyên nghiệp.</string>
+    <string name="profile_image_desc">Ảnh đại diện</string>
+</resources>
