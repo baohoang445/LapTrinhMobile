@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EmailChecker</string>
+    <string name="hint_email">Email</string>
+    <string name="button_check">Kiểm tra</string>
+    <string name="msg_empty">Email không hợp lệ</string>
+    <string name="msg_invalid">Email không đúng định dạng</string>
+    <string name="msg_valid">→ Bạn đã nhập email hợp lệ</string>
+</resources>
